@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440012468560",
+    "project_id": "flutter-notif-b1e61",
+    "storage_bucket": "flutter-notif-b1e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440012468560:android:8be69d996cd3ca1a0d7c55",
+        "android_client_info": {
+          "package_name": "com.softwaresland.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440012468560-7l3m21k6ule7sccgd054d84jopqru6g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Qf-LYtG4wat1t-9-5rjNWu6Ozn7FKS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440012468560-7l3m21k6ule7sccgd054d84jopqru6g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
